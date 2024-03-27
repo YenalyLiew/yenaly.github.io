@@ -2,27 +2,26 @@
 menu:
   首页: /
   友链: /links
-  留言: /messages
   关于: /about
 
 # 主页banner图
 banner: https://qiniu.sukoshi.xyz/src/images/68686407_p0.jpg
 
 # 站点通知信息
-notice: flex-block主题部分重构，详情查看https://github.com/miiiku/flex-block
+notice: 我要找工作
 
 # 作者信息
 author:
-  name: Sukoshi
-  avatar: https://s.gravatar.com/avatar/2d6b803eea37de0257620d5fabee7e64?s=200&r=g&d=retro
-  description: 贵在坚持
+  name: Yenaly
+  avatar: https://github.com/yenalyliew.png
+  description: 救救我，我母胎单身。
 
 toc:
   max_depth: 3 # 生成 TOC 的最大深度
   min_depth: 2 # 生成 TOC 的最小深度
 
 comments:
-  enable: true
+  enable: false
   use: 'valine' # valine || disqus
   # valine 评论
   # docs: https://valine.js.org
@@ -83,5 +82,5 @@ social_icon:
     ins     :
     zhihu   :
     weibo   : 
-    github  : https://github.com/miiiku/
-    twitter : https://twitter.com/guanquanhong
+    github  : https://github.com/YenalyLiew
+    twitter :
