@@ -26,7 +26,10 @@ jobs:
           restore-keys: |
             ${{ runner.OS }}-npm-cache
       - name: Install Dependencies
-        run: npm install
+        run: |-
+          npm install
+          npm install hexo-renderer-pug hexo-renderer-stylus --save
+          npm install hexo-wordcount --save
       - name: Build
         run: npm run build
       - name: Upload Pages artifact
