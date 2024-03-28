@@ -1,0 +1,11 @@
+- class_name: 友链
+  class_desc: 「友链」謂網站或博客間相互添加連結之舉。通常所謂，此連結者，欲使彼此網站更加合作，增進流量與互動。友链之用，可增加網站曝光度，提高搜索引擎排名，亦可促進異站間之合作與交流。
+  link_list:
+    - name: Yenaly
+      link: https://github.com/YenalyLiew
+      avatar: https://github.com/yenalyliew.png
+      descr: 就是我
+    - name: FunnyMudPee
+      link: https://github.com/FunnyMudTureGoPee
+      avatar: https://github.com/FunnyMudTureGoPee.png
+      descr: 我舍友
