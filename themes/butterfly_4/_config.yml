@@ -232,7 +232,7 @@ aside:
     category: true
   card_author:
     enable: true
-    description: Maintaining Han1meViewer
+    description: 忙碌工作中...
     button:
       enable: true
       icon: fab fa-github
@@ -240,7 +240,7 @@ aside:
       link: https://github.com/YenalyLiew
   card_announcement:
     enable: true
-    content: 母胎单身就算了，找工作也找不到，急了寄了😭
+    content: 忙碌工作中...
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all
